@@ -17,6 +17,7 @@ header{
 }
 a{
     text-decoration: none;
+    color:black;
 }
 .resume li{
     display: inline-block;
